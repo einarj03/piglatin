@@ -1,6 +1,3 @@
-#include <iostream>
-#include <cctype>
-#include <fstream>
 #include "piglatin.h"
 
 using namespace std;
